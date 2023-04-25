@@ -2,4 +2,4 @@ deploy:
   type: git
   repo: https://github.com/death3721/death3721.github.io
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
+  branch: master
