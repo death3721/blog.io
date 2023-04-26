@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 # Site 站点配置
 title: Foundation #网站标题
-subtitle: Nothing is EASY #网站副标题
-description: this is hexo-demo #网站描述
+subtitle: Nothing is Easy #网站副标题
+description: Nothing is Easy #网站描述
 author: death3721 #你的名字
 language: zh-CN #网站使用的语言
 timezone: Asia/Tokyo #网站时区
 # URL #可以不用配置
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com #网址，搜索时会在搜索引擎中显示
+url: https://death3721.github.io/ #网址，搜索时会在搜索引擎中显示
 root: / #网站根目录
 permalink: :year/:month/:day/:title/ #永久链接格式
 permalink_defaults: #永久链接中各部分的默认值
+
 # Directory 目录配置
 source_dir: source #资源文件夹，这个文件夹用来存放内容
 public_dir: public #公共文件夹，这个文件夹用于存放生成的站点文件
@@ -23,6 +24,7 @@ category_dir: categories #分类文件夹
 code_dir: downloads/code #Include code 文件夹
 i18n_dir: :lang #国际化文件夹
 skip_render: #跳过指定文件的渲染，您可使用 glob 来配置路径
+
 # Writing 写作配置
 new_post_name: :title.md # 新文章的文件名称
 default_layout: post #默认布局
@@ -38,10 +40,12 @@ enable: true
 line_number: true
 auto_detect: true
 tab_replace:
+
 # Category & Tag 分类 & 标签
 default_category: uncategorized #默认分类
 category_map: #分类别名
 tag_map: #标签别名
+
 # Date / Time format 时间和日期
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
