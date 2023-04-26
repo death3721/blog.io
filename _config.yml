@@ -57,7 +57,7 @@ pagination_dir: page #分页目录
 ## Plugins: http://hexo.io/plugins/ 插件
 
 ## Themes: http://hexo.io/themes/ 主题
-theme: hexo-theme-next-master
+theme: hexo-theme-ace
 
 # Deployment #部署到github
 ## Docs: http://hexo.io/docs/deployment.html
