@@ -2,12 +2,12 @@
 ## Docs: http://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 # Site 站点配置
-title: Hexo-demo #网站标题
-subtitle: hexo is simple and easy to study #网站副标题
-description: this is hexo-demo #网栈描述
-author: pomy #你的名字
+title: Foundation #网站标题
+subtitle: Nothing is EASY #网站副标题
+description: this is hexo-demo #网站描述
+author: death3721 #你的名字
 language: zh-CN #网站使用的语言
-timezone: Asia/Shanghai #网站时区
+timezone: Asia/Tokyo #网站时区
 # URL #可以不用配置
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com #网址，搜索时会在搜索引擎中显示
