@@ -1,5 +1,5 @@
 # Header
-navname: Bentham's Blog
+navname: death3721's Blog
 
 # navigatior items
 nav:
@@ -12,10 +12,10 @@ nav:
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: death3721
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
+description: Nothing is Easy.
 avatar: /image/avatar.jpeg
 
 # main menu navigation
@@ -33,7 +33,6 @@ links:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
   # LinkedIn:
   # FaceBook:
   # Twitter:
