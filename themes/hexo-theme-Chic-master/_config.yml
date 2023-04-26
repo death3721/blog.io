@@ -35,20 +35,20 @@ links:
   # AliPay:
   # LinkedIn:
   # FaceBook:
-  # Twitter:
+  Twitter: https://twitter.com/death3721jp
   # Skype:
   # CodeSandBox:
   # CodePen:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  Instagram: https://www.instagram.com/death3721
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/death3721
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
