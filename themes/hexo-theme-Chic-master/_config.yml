@@ -5,8 +5,8 @@ navname: death3721's Blog
 nav:
   Home: /
   Posts: /archives
-#  Categories: /category
-#  Tags: /tag
+  #  Categories: /category
+  #  Tags: /tag
   About: /about
 
 # favicon
@@ -27,7 +27,7 @@ avatar: /image/avatar.jpeg
 links:
   # Blog: /archives
   # Category:
-  # Tags: 
+  # Tags:
   # Link:
   # Resume:
   # Publish:
@@ -95,7 +95,6 @@ scripts:
   - /js/tocbot.min.js
     # tscanlin/tocbot: Build a table of contents from headings in an HTML document.
     # https://github.com/tscanlin/tocbot
-
 
 # plugin functions
 ## Mathjax: Math Formula Support
